@@ -1,0 +1,15 @@
+C:\Learning\Clonetest\Develop\Helloworld\Helloworld\bin\Debug\net6.0\Helloworld.exe
+C:\Learning\Clonetest\Develop\Helloworld\Helloworld\bin\Debug\net6.0\Helloworld.deps.json
+C:\Learning\Clonetest\Develop\Helloworld\Helloworld\bin\Debug\net6.0\Helloworld.runtimeconfig.json
+C:\Learning\Clonetest\Develop\Helloworld\Helloworld\bin\Debug\net6.0\Helloworld.dll
+C:\Learning\Clonetest\Develop\Helloworld\Helloworld\bin\Debug\net6.0\Helloworld.pdb
+C:\Learning\Clonetest\Develop\Helloworld\Helloworld\obj\Debug\net6.0\Helloworld.csproj.AssemblyReference.cache
+C:\Learning\Clonetest\Develop\Helloworld\Helloworld\obj\Debug\net6.0\Helloworld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learning\Clonetest\Develop\Helloworld\Helloworld\obj\Debug\net6.0\Helloworld.AssemblyInfoInputs.cache
+C:\Learning\Clonetest\Develop\Helloworld\Helloworld\obj\Debug\net6.0\Helloworld.AssemblyInfo.cs
+C:\Learning\Clonetest\Develop\Helloworld\Helloworld\obj\Debug\net6.0\Helloworld.csproj.CoreCompileInputs.cache
+C:\Learning\Clonetest\Develop\Helloworld\Helloworld\obj\Debug\net6.0\Helloworld.dll
+C:\Learning\Clonetest\Develop\Helloworld\Helloworld\obj\Debug\net6.0\refint\Helloworld.dll
+C:\Learning\Clonetest\Develop\Helloworld\Helloworld\obj\Debug\net6.0\Helloworld.pdb
+C:\Learning\Clonetest\Develop\Helloworld\Helloworld\obj\Debug\net6.0\Helloworld.genruntimeconfig.cache
+C:\Learning\Clonetest\Develop\Helloworld\Helloworld\obj\Debug\net6.0\ref\Helloworld.dll
